@@ -1,6 +1,6 @@
 HorizontalScroller.unity
 ====
 
-A straightforward UI component script for horizontal selector.
+A straightforward UI component for horizontal selector.
 
 ![ex](ex.png)
